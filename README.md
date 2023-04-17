@@ -2,7 +2,7 @@
 
 <- = Currently working on
 
-- [ ] ledger <-
+- [X] ledger <-
 - [ ] QR code sharpener
 - [ ] Automatic recipe creator
 - [ ] Floorplanner <-
