@@ -9,7 +9,7 @@
 - [ ] Time tracker
 - [ ] Meta search engine
 - [ ] Note taking
-- [ ] ADHD focus tool
+- [ ] ADHD focus tool <-
 - [ ] Sudoku Solver
 - [ ] Implement TCP
 - [ ] Image encryption
